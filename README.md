@@ -35,7 +35,7 @@ mateusz = {
 
 ---
 
-## `> tech_stack`
+## `🛠️ Tech Stack `
 
 **Languages & Core**
 
