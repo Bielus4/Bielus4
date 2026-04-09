@@ -19,7 +19,7 @@
 
 ---
 
-## `> whoami`
+## `👨‍💻 About Me`
 
 ```python
 mateusz = {
