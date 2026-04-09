@@ -23,13 +23,12 @@
 
 ```python
 mateusz = {
-    "name"       : "Mateusz Bielus",
+    "name"       : "Mateusz Bielecki",
     "location"   : "Poland 🇵🇱",
     "status"     : "🟢 Open to work — ML / Data Science roles",
     "focus"      : ["Language Models", "Deep Learning", "Data Visualization"],
     "currently"  : "Building portfolio projects & fine-tuning LLMs",
     "superpower" : "Making complex data tell clear, visual stories",
-    "fun_fact"   : "I debug models the same way I debug life — iteratively 🔁",
 }
 ```
 
