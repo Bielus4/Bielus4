@@ -158,15 +158,6 @@ mateusz = {
 
 ---
 
-## `> currently_learning`
-
-```
-[ ████████████████░░░░ ]  Transformer internals & attention mechanisms
-[ ██████████████░░░░░░ ]  LLM fine-tuning (LoRA, QLoRA, PEFT)
-[ ████████████░░░░░░░░ ]  MLOps & model deployment at scale
-[ ██████████░░░░░░░░░░ ]  Agentic AI & tool-use frameworks
-```
-
 ---
 
 ## `> contact`
