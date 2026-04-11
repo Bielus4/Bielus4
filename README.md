@@ -34,7 +34,7 @@ mateusz = {
 
 ---
 
-## `🛠️ Tech Stack `
+## `🛠️ Tech Stack & Tools`
 
 **Languages & Core**
 
@@ -67,7 +67,7 @@ mateusz = {
 
 ---
 
-## `> featured_projects`
+## `🚀 Featured Projects`
 
 <table>
   <tr>
