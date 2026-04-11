@@ -1,98 +1,177 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:f093fb,50:f5576c,100:4facfe&height=240&text=Hey%2C%20I'm%20Mateusz%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=50&desc=I%20teach%20machines%20to%20understand%20language.&descColor=ffe0f0&descAlignY=68&animation=fadeIn" width="100%"/>
+<!-- Animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mateusz%20Bielecki&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Deep%20Learning%20%7C%20NLP&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
+
+<!-- Typing animation -->
+<a href="https://github.com/Bielus4">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;Fine-tuning+language+models+%F0%9F%A7%A0;Turning+data+into+stories+%F0%9F%93%8A;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=700&color=F5576C&center=true&vCenter=true&width=620&lines=ML+Engineer+%7C+NLP+enthusiast+%7C+Viz+nerd;I+fine-tune+LLMs+for+fun+%F0%9F%A4%93;I+make+dashboards+that+actually+tell+stories+%F0%9F%93%8A;%F0%9F%9F%A2+Available+for+hire+%E2%80%94+let%27s+talk!" alt="typing"/>
+<!-- Status badges -->
+![Open to work](https://img.shields.io/badge/Open%20to%20Work-4CAF50?style=for-the-badge&logo=handshake&logoColor=white)
+![ML Engineer](https://img.shields.io/badge/ML%20%2F%20Deep%20Learning-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP%20%26%20LLMs-0EA5E9?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
 ---
 
-## A bit about me
+## `👨‍💻 About Me`
 
-> I graduated, I fell in love with language models, and I never looked back.
-
-I'm **Mateusz** — an ML engineer based in Poland who spent the last few years obsessing over two things: **making machines understand text** and **making humans understand data**. That intersection — where NLP meets beautiful visualization — is where I live.
-
-I'm currently looking for my **first professional ML role** and building in public while I do it.
-
----
-
-## What I'm working on
-
-```
-🧠  Fine-tuning Mistral with QLoRA on domain-specific datasets
-📊  Building interactive Plotly dashboards that tell data stories  
-🔍  Experimenting with RAG architectures and retrieval strategies
-📚  Diving deep into transformer internals (attention is all I need)
+```python
+mateusz = {
+    "name"       : "Mateusz Bielecki",
+    "location"   : "Poland 🇵🇱",
+    "status"     : "🟢 Open to work — ML / Data Science roles",
+    "focus"      : ["Language Models", "Deep Learning", "Data Visualization"],
+    "currently"  : "Building portfolio projects & fine-tuning LLMs",
+    "superpower" : "Making complex data tell clear, visual stories",
+}
 ```
 
 ---
 
-## My weapons of choice
+## `🛠️ Tech Stack `
 
-<div align="center">
+**Languages & Core**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**ML / DL Frameworks**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Data & Visualization**
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-</div>
+**Tools & MLOps**
 
----
-
-## Projects I'm proud of
-
-<div align="center">
-
-| | Project | What it does |
-|---|---------|-------------|
-| 🧠 | [**LLM Fine-tuning Pipeline**](https://github.com/Bielus4) | LoRA/QLoRA fine-tuning framework with evaluation harness & FastAPI inference |
-| 🔍 | [**RAG from scratch**](https://github.com/Bielus4) | Production-ready RAG with hybrid retrieval, reranking, and streaming responses |
-| 📊 | [**Data Storytelling Hub**](https://github.com/Bielus4) | Collection of Plotly dashboards — each one a data story worth reading |
-| 🤖 | [**BERT Text Classifier**](https://github.com/Bielus4) | Custom fine-tuned BERT for multi-label classification on Polish text |
-
-</div>
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![W&B](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 
 ---
 
-## Numbers
+## `> featured_projects`
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧠 LLM Fine-tuning Pipeline</h3>
+      <p align="center">
+        <a href="https://github.com/Bielus4">
+          <img src="https://img.shields.io/badge/View%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">
+        Fine-tuning open-source LLMs with LoRA/QLoRA for domain-specific tasks. Includes evaluation pipeline and inference API.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
+        <img src="https://img.shields.io/badge/LoRA-8B5CF6?style=flat"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📊 Data Storytelling Dashboard</h3>
+      <p align="center">
+        <a href="https://github.com/Bielus4">
+          <img src="https://img.shields.io/badge/View%20Project-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">
+        Interactive visualizations that turn raw datasets into compelling narratives. Built with Plotly + Streamlit.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔍 RAG System from Scratch</h3>
+      <p align="center">
+        <a href="https://github.com/Bielus4">
+          <img src="https://img.shields.io/badge/View%20Project-10B981?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">
+        Retrieval-Augmented Generation pipeline with vector search, reranking and a clean FastAPI interface.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat"/>
+        <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧬 Deep Learning EDA Series</h3>
+      <p align="center">
+        <a href="https://github.com/Bielus4">
+          <img src="https://img.shields.io/badge/View%20Project-F59E0B?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">
+        Series of exploratory notebooks — each tells one data story, from insight to publication-ready chart.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat"/>
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## `> github_stats`
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Bielus4&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielus4&layout=compact&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bielus4&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielus4&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Bielus4&theme=radical&hide_border=true"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=Bielus4&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
 ---
 
-## Want to build something together?
 
-I'm actively looking for **Data Science / ML Engineering** roles — full-time, hybrid or remote, based in Poland. If you're building something with LLMs, data pipelines, or need someone who cares deeply about how data is communicated — let's talk.
+## `> contact`
 
 <div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateusz%20Bielus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateusz-bielus)
+[![Email](https://img.shields.io/badge/Email-say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Bielus4-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/bielus4)
+
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateusz-bielus)
-[![Email](https://img.shields.io/badge/Email-Drop%20me%20a%20line-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-See%20my%20work-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/bielus4)
+> *"The goal is to turn data into information, and information into insight."*
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:4facfe,50:f5576c,100:f093fb&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
