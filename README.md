@@ -1,92 +1,101 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=180&text=Mateusz%20Bielus&fontSize=48&fontColor=00FF41&fontAlignY=55&desc=%3E%20ML%20Engineer%20%2F%20NLP%20%2F%20Deep%20Learning&descColor=00CC33&descAlignY=75&animation=blinking" width="100%"/>
-</div>
 
-```bash
-$ whoami
-> Mateusz Bielus — ML Engineer, fresh grad, open to work
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,100:764ba2&height=220&text=Mateusz%20Bielus&fontSize=56&fontColor=ffffff&fontAlignY=45&desc=ML%20Engineer%20%E2%80%A2%20NLP%20%E2%80%A2%20Deep%20Learning&descColor=e2d9f3&descAlignY=65&animation=fadeIn" width="100%"/>
 
-$ cat interests.txt
-> Language Models | Deep Learning | Data Visualization
+<br/>
 
-$ ls ~/skills/
-pytorch/   transformers/   langchain/   plotly/   fastapi/   docker/
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1000&color=764BA2&center=true&vCenter=true&width=500&lines=Building+language+models+that+matter;Turning+messy+data+into+clear+insight;Fresh+grad+%E2%80%94+big+ideas+%F0%9F%92%A1;Open+to+work+%F0%9F%87%B5%F0%9F%87%B1+%26+remote" alt="Typing SVG"/>
 
-$ echo $STATUS
-> 🟢 Actively looking for Data Science / ML roles in Poland & remote
-```
+<br/><br/>
 
----
-
-<div align="center">
-
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=training+models...+loss%3A+0.0042+%E2%9C%93;fine-tuning+LLMs+with+LoRA...+done+%E2%9C%93;visualizing+data...+plot+saved+%E2%9C%93;pushing+to+GitHub...+%E2%9C%93;open+to+new+opportunities+%F0%9F%9A%80)
+![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-764BA2?style=flat-square&logoColor=white)
+![Location](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B1%20Poland-667EEA?style=flat-square)
+![Focus](https://img.shields.io/badge/%F0%9F%A7%A0%20ML%20%2F%20NLP-9B59B6?style=flat-square)
 
 </div>
 
 ---
 
-## `$ cat tech_stack.json`
+### About me
 
-```json
-{
-  "languages"  : ["Python", "SQL", "Bash"],
-  "ml_dl"      : ["PyTorch", "TensorFlow", "scikit-learn", "HuggingFace", "PEFT/LoRA"],
-  "nlp"        : ["Transformers", "LangChain", "spaCy", "sentence-transformers"],
-  "data"       : ["Pandas", "NumPy", "Polars"],
-  "viz"        : ["Plotly", "Matplotlib", "Seaborn", "Streamlit"],
-  "mlops"      : ["Docker", "FastAPI", "W&B", "MLflow"],
-  "tools"      : ["Git", "Jupyter", "Linux", "VS Code"]
-}
-```
+I'm a fresh ML Engineering graduate passionate about **language models** and **data visualization**. I love taking complex datasets and turning them into stories people actually understand — whether that's a fine-tuned LLM or a dashboard that makes patterns jump off the screen.
+
+Currently building portfolio projects and actively looking for my first role in **Data Science or ML Engineering**.
 
 ---
 
-## `$ ls -la ~/projects/`
+### Tech stack
 
-```
-drwxr-xr-x  llm-finetune-pipeline/     Fine-tuning LLMs with LoRA & QLoRA
-drwxr-xr-x  rag-system/                RAG pipeline with vector search + FastAPI
-drwxr-xr-x  data-storytelling/         Interactive Plotly dashboards
-drwxr-xr-x  nlp-classifier/            Text classification — BERT fine-tune
-```
+<table>
+<tr>
+<td valign="top" width="33%">
 
-> 📂 [Browse all repositories →](https://github.com/Bielus4?tab=repositories)
+**ML / Deep Learning**
+- PyTorch · TensorFlow
+- HuggingFace Transformers
+- scikit-learn · PEFT / LoRA
+- LangChain · RAG systems
+
+</td>
+<td valign="top" width="33%">
+
+**Data & Visualization**
+- Pandas · NumPy · Polars
+- Plotly · Matplotlib · Seaborn
+- Streamlit · Jupyter
+- SQL · PostgreSQL
+
+</td>
+<td valign="top" width="33%">
+
+**Tools & Deployment**
+- Python · Bash
+- Docker · FastAPI
+- Git · GitHub Actions
+- W&B · MLflow
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `$ git log --oneline --graph`
+### Featured projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🧠 [LLM Fine-tune Pipeline](https://github.com/Bielus4) | LoRA/QLoRA fine-tuning with evaluation & API | PyTorch · HuggingFace · FastAPI |
+| 🔍 [RAG System](https://github.com/Bielus4) | Retrieval-augmented generation with reranking | LangChain · ChromaDB · Docker |
+| 📊 [Data Storytelling](https://github.com/Bielus4) | Interactive dashboards from raw datasets | Plotly · Streamlit · Pandas |
+| 🤖 [BERT Classifier](https://github.com/Bielus4) | Text classification fine-tuned on custom corpus | Transformers · scikit-learn |
+
+---
+
+### GitHub stats
 
 <div align="center">
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Bielus4&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielus4&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-</div>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Bielus4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielus4&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Bielus4&theme=chartreuse-dark&hide_border=true"/>
+<br/>
+
+![Streak](https://streak-stats.demolab.com?user=Bielus4&theme=tokyonight&hide_border=true)
 </div>
 
 ---
 
-## `$ cat contact.sh`
-
-```bash
-#!/bin/bash
-echo "LinkedIn : linkedin.com/in/mateusz-bielus"
-echo "Email    : your@email.com"
-echo "Kaggle   : kaggle.com/bielus4"
-echo ""
-echo ">>> Open to work. Let's build something great."
-```
+### Let's connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/mateusz-bielus)
-[![Email](https://img.shields.io/badge/-Email-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:your@email.com)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-00FF41?style=for-the-badge&logo=kaggle&logoColor=black)](https://kaggle.com/bielus4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateusz%20Bielus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateusz-bielus)
+[![Email](https://img.shields.io/badge/Email-say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Bielus4-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/bielus4)
 
-</div>
+<br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=60&section=footer&fontSize=14&fontColor=00FF41&text=%3E%20EOF" width="100%"/>
+*"Data is the new oil — I prefer to refine it."*
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:764ba2,100:667eea&height=100&section=footer" width="100%"/>
+
 </div>
