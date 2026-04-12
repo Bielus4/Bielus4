@@ -142,22 +142,6 @@ mateusz = {
 
 ---
 
-## `> github_stats`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bielus4&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielus4&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6"/>
-
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Bielus4&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
-</div>
-
----
-
-
 ## `> contact`
 
 <div align="center">
