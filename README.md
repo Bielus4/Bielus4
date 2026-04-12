@@ -146,9 +146,8 @@ mateusz = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateusz%20Bielus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateusz-bielus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateusz%20Bielus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/mateusz-bielus](https://www.linkedin.com/in/mateusz-bielecki-58a268227/)
 [![Email](https://img.shields.io/badge/Email-say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Bielus4-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/bielus4)
 
 <br/>
 
