@@ -19,7 +19,7 @@
 
 ---
 
-## `👨‍💻 About Me`
+## 👨‍💻 About Me
 
 ```python
 mateusz = {
@@ -67,7 +67,7 @@ mateusz = {
 
 ---
 
-## `🚀 Featured Projects`
+## 🚀 Featured Projects
 
 <table>
   <tr>
@@ -142,7 +142,7 @@ mateusz = {
 
 ---
 
-## `📫 Let's Connect`
+## 📫 Let's Connect
 
 <div align="center">
 
