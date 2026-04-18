@@ -141,7 +141,7 @@ mateusz = {
 [![Email](https://img.shields.io/badge/Email-say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateuszbielecki230@gmail.com)
 
 <br/>
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=220&section=header&text=Data%20Science%20Portfolio&fontSize=30)
+![test](https://via.placeholder.com/800x200)
 
 <br/>
 
