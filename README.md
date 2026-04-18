@@ -141,7 +141,8 @@ mateusz = {
 [![Email](https://img.shields.io/badge/Email-say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateuszbielecki230@gmail.com)
 
 <br/>
-![test](https://via.placeholder.com/800x200)
+
+![](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4,2,0&height=220§ion=header&text=In%20God%20we%20trust.%20All%20others%20must%20bring%20data.&fontSize=20&fontColor=E8D5A3&animation=fadeIn&fontAlignY=45&desc=—%20W.%20Edwards%20Deming&descAlignY=68&descSize=12&descColor=8A9BAE2&descColor=8A9BAE)
 
 <br/>
 
