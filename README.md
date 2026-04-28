@@ -28,7 +28,6 @@ mateusz = {
     "status"     : "🟢 Open to work — ML / Data Science roles",
     "focus"      : ["Language Models", "Deep Learning", "Data Visualization"],
     "currently"  : "Building portfolio projects & fine-tuning LLMs",
-    "superpower" : "Making complex data tell clear, visual stories",
 }
 ```
 
